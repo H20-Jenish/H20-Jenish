@@ -12,7 +12,7 @@ With a very solid background in technical support and system administration, dri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hfref="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hfref="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hfref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,6 +58,6 @@ With a very solid background in technical support and system administration, dri
 </div>
 
 ## Projects
-- Detection Lab
+- <a hfref="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>
 - SOC Automation Project
 
