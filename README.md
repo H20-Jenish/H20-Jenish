@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Sagar%20Patel%20&width=1100&height=150)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=SAGAR%20PATEL%20&width=1100&height=150)
 
 # Hello, Sagar
 <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
