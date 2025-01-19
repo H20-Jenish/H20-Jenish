@@ -1,4 +1,6 @@
-# Hello, I'm Sagar
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Sagar%20Patel%20&width=1100&height=150)
+
+# Hello, Sagar
 <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
@@ -47,10 +49,12 @@ With a very solid background in technical support and system administration, dri
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-ITILv4-000000?&style=for-the-badge&logo=ITIL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
+
 </div>
 
 ## Projects
