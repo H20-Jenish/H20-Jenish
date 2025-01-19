@@ -1,7 +1,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=SAGAR%20PATEL%20&width=1100&height=150)
 
-# Hello, Sagar
-<a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I am Sagar! <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
 I am an IT professional with a diploma in Computer System Technician and over 6 years of experience in technical support and cybersecurity. I specialize in resolving complex IT issues, enhancing systems security, and supporting Cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology and security solutions.
