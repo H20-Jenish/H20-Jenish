@@ -55,5 +55,4 @@ With a very solid background in technical support and system administration, dri
 
 ## Projects
 - <a href="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>
-- SOC Automation Project
 
