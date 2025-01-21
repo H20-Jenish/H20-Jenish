@@ -9,13 +9,6 @@ I am an IT professional with a diploma in Computer System Technician and over 6 
 
 With a very solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but when I went deep inside the intricacies of network security and vulnerabilities, my passion for cybersecurity was born. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>|
-
 ## Tools
 
 ### Firewall
@@ -57,7 +50,10 @@ With a very solid background in technical support and system administration, dri
 </div>
 
 ## Projects
-- <a href="https://github.com/H20-Jenish/Detection-lab">Detection Lab</a>
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Create a virtualize environment               | <p align="center" href="https://github.com/H20-Jenish/Detection-lab"> Virtual Lab</p>|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h20-jenish&label=Profile%20views&color=0e75b6&style=flat" alt="h20-jenish" /> </p>
 
