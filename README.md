@@ -9,6 +9,17 @@ I am an IT professional with a diploma in Computer System Technician and over 6 
 
 With a very solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but when I went deep inside the intricacies of network security and vulnerabilities, my passion for cybersecurity was born. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
 
+## Skills obtained from Projects
+
+| Skill                     | Description                                                                                                                                                 | Tools Used                              | Associated Project         |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------|
+| Network Security Design    | Configured VLANs and subnets for isolated communication. Implemented pfSense for advanced firewall rules, NAT, VPNs, and IDS/IPS configurations. Captured mirrored traffic for analysis. | pfSense, Wireshark, SPAN Ports|<a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| Active Directory Management| Deployed and managed AD services on Windows Server 22. Configured group policies, organizational units (OUs), and role-based access control (RBAC). Conducted audits for Kerberos misconfigurations and privilege escalation vulnerabilities. | Windows Server 22, PowerShell Active Directory Module | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| Penetration Testing| Conducted reconnaissance using Nmap and Nessus. Exploited vulnerabilities using Metasploit and custom scripts. Tested web application security for SQL injection, XSS, and CSRF vulnerabilities.| Kali Linux, Metasploit, Nmap, Nikto, Burp Suite | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| Threat Monitoring| Deployed Wazuh for centralized log management and SIEM capabilities. Configured Security Onion for network-based intrusion detection using Zeek and Suricata. Monitored endpoint activity for malware and anomalous behavior.| Wazuh, Security Onion, Zeek, Suricata| <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| Digital Forensics| Conducted memory dumps and disk imaging for forensic analysis. Used REMux for memory analysis and Flare VM for reverse engineering of malware samples. Inspected PCAP files for evidence of data exfiltration or suspicious activity.| REMux, Flare VM, Autopsy, Wireshark | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| System Hardening| Disabled unused services and enforced secure configurations on Windows and Linux systems. Configured IIS for HTTPS with valid certificates and mitigated OWASP vulnerabilities, including input validation and secure headers. | IIS, OpenSSL, Group Policy Editor, Lynis| <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>
+| File Storage Security| Configured secure shared storage on TrueNAS with encrypted volumes and restricted access using ACLs. Implemented snapshot backups to protect against ransomware. | TrueNAS, ZFS File System| <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>|
 ## Tools
 
 ### Firewall
@@ -46,14 +57,6 @@ With a very solid background in technical support and system administration, dri
 <a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
-
 </div>
 
-## Projects
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Create a virtualize environment               | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>|
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h20-jenish&label=Profile%20views&color=0e75b6&style=flat" alt="h20-jenish" /> </p>
-
