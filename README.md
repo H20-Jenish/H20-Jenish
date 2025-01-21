@@ -53,7 +53,7 @@ With a very solid background in technical support and system administration, dri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Create a virtualize environment               | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Lab</a>|
+| Create a virtualize environment               | <a href="https://github.com/H20-Jenish/Detection-lab"> Virtual Pentest Lab</a>|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h20-jenish&label=Profile%20views&color=0e75b6&style=flat" alt="h20-jenish" /> </p>
 
