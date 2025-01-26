@@ -59,5 +59,3 @@ With a very solid background in technical support and system administration, dri
 <a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h20-jenish&label=Profile%20views&color=0e75b6&style=flat" alt="h20-jenish" /> </p>
