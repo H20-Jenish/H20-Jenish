@@ -37,7 +37,7 @@ With a solid background in technical support and system administration, driven b
 
 ### Network IDS/IPS
 <div>
-    <img src="https://img.shields.io/badge/-Suricata-E34E26?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-FF6C37?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-C00?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
