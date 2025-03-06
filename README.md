@@ -9,7 +9,7 @@
 <a href="https://www.credly.com/badges/efbbf3ce-af6e-4ed7-b7ff-4b4776ebe190/public_url"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-1A73E8?&style=for-the-badge&logo=Google&logoColor=white"></a> 
 
 ## Introduction
-I am an IT professional with over 7 years of experience in Team Leadership and securing IT infrastructure. I specialize in resolving complex IT issues, enhancing systems security, and supporting Cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology integrated with security solutions.
+I am an IT professional with over 7 years of experience in Team Leadership and securing IT infrastructure. I specialize in resolving complex IT issues, enhancing systems security, and supporting cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology integrated with security solutions.
 
 ## Objective
 
