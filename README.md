@@ -54,9 +54,10 @@ With a solid background in technical support and system administration, driven b
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security+-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITILv4-000000?&style=for-the-badge&logo=ITIL&logoColor=white" />
-<a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/efbbf3ce-af6e-4ed7-b7ff-4b4776ebe190/public_url"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-1A73E8?&style=for-the-badge&logo=Google&logoColor=white"></a>   
 </div>
