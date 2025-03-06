@@ -3,11 +3,11 @@
 # Hello, I am Sagar! <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I am an IT professional with a diploma in Computer System Technician and over 6 years of experience in technical support and cybersecurity. I specialize in resolving complex IT issues, enhancing systems security, and supporting Cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology and security solutions.
+I am an IT professional with over 7 years of experience in Team Leadership and securing IT infrastructure. I specialize in resolving complex IT issues, enhancing systems security, and supporting Cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology integrated with security solutions.
 
 ## Objective
 
-With a very solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but when I went deep inside the intricacies of network security and vulnerabilities, my passion for cybersecurity was born. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
+With a solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but when I went deep inside the intricacies of network security and vulnerabilities, my passion for cybersecurity was born. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
 
 ##  Projects
 
