@@ -27,29 +27,29 @@ With a solid background in technical support and system administration, driven b
 ### Firewall
 <div>
     <img src="https://img.shields.io/badge/-pfSense-3949AB?&style=for-the-badge&logo=pfSense&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Fortinet-000000?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 </div>
 
-### Network
+### Network IDS/IPS
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FF3E00?&style=for-the-badge&logo=snortk&logoColor=Red" />
+    <img src="https://img.shields.io/badge/-Suricata-E34E26?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-C00?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Operating System
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Red_Hat-000000?&style=for-the-badge&logo=RedHat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Windows%20Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_11%2F10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TrueNAS-0095D5?&style=for-the-badge&logo=truenas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 ## Certifications
