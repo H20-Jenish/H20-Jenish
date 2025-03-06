@@ -1,6 +1,12 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=SAGAR%20PATEL%20&width=1100&height=150)
 
 # Hello, I am Sagar! <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security+-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a><img src="https://img.shields.io/badge/-ITILv4-000000?&style=for-the-badge&logo=ITIL&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/efbbf3ce-af6e-4ed7-b7ff-4b4776ebe190/public_url"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-1A73E8?&style=for-the-badge&logo=Google&logoColor=white"></a> 
 
 ## Introduction
 I am an IT professional with over 7 years of experience in Team Leadership and securing IT infrastructure. I specialize in resolving complex IT issues, enhancing systems security, and supporting Cloud environments. Passionate about leveraging technology to drive innovation, I aim to deliver and manage impactful technology integrated with security solutions.
@@ -8,6 +14,7 @@ I am an IT professional with over 7 years of experience in Team Leadership and s
 ## Objective
 
 With a solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but when I went deep inside the intricacies of network security and vulnerabilities, my passion for cybersecurity was born. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
+
 
 ##  Projects
 
@@ -20,7 +27,6 @@ With a solid background in technical support and system administration, driven b
 |<a href="https://github.com/H20-Jenish/Detection-lab/blob/main/5.0%20Digital%20Forensics/5.0%20Digital%20Forensics.md">Digital Forensics</a>|Conducted memory dumps and disk imaging for forensic analysis. Used REMux for memory analysis and Flare VM for reverse engineering of malware samples. Inspected PCAP files for evidence of data exfiltration or suspicious activity.| - REMux <br> - Flare VM <br> - Autopsy <br> - Wireshark|
 |<a href="https://github.com/H20-Jenish/Detection-lab/blob/main/6.0%20System%20and%20Network%20Hardening/6.0%20System%20and%20Network%20Hardening.md">System Hardening </a>|Disabled unused services and enforced secure configurations on Windows and Linux systems. Configured IIS for HTTPS with valid certificates and mitigated OWASP vulnerabilities, including input validation and secure headers.|- IIS <br> - OpenSSL <br> - Group Policy Editor|
 |<a href="https://github.com/H20-Jenish/Detection-lab/blob/main/7.0%20File%20Storage%20Security/7.0%20File%20Storage%20Security.md">File Storage Security</a>|Configured secure shared storage on TrueNAS with encrypted volumes and restricted access using ACLs. Implemented snapshot backups to protect against ransomware.|- TrueNAS|
-
 
 ## Tools
 
@@ -50,14 +56,4 @@ With a solid background in technical support and system administration, driven b
     <img src="https://img.shields.io/badge/-Windows_11%2F10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-TrueNAS-0095D5?&style=for-the-badge&logo=truenas&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security+-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITILv4-000000?&style=for-the-badge&logo=ITIL&logoColor=white" />
-<a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/53e27d40-65e5-437f-81de-89f5c5c0b541/public_url"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/9a223aee-2bc8-48ec-8b8d-c21ec9a86e30/public_url"><img src="https://img.shields.io/badge/-Fortinet_Certified_Associate_Cybersecurity-003B36?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/efbbf3ce-af6e-4ed7-b7ff-4b4776ebe190/public_url"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-1A73E8?&style=for-the-badge&logo=Google&logoColor=white"></a>   
 </div>
