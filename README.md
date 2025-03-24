@@ -13,7 +13,7 @@ I am an IT professional with over 7 years of experience in Team Leadership and s
 
 ## Objective
 
-With a solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but my passion for cybersecurity was born when I went deep inside the intricacies of network security and vulnerabilities. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a penetration tester. This specifically means finding these vulnerabilities proactively in pursuit of stronger defenses and safer digital landscapes.
+With a solid background in technical support and system administration, driven by curiosity about how systems work and how they can be protected. My journey began with resolving technical challenges and ensuring seamless operations, but my passion for cybersecurity was born when I went deep inside the intricacies of network security and vulnerabilities. I have channeled this expertise into relentless problem-solving and am now committed to a focused pursuit of becoming a Cybersecurity Professional. This specifically means finding these vulnerabilities proactively in pursuit of stronger defences and safer digital landscapes.
 
 
 ##  Projects
