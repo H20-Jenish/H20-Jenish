@@ -1,4 +1,4 @@
-# Hello, I am Sagar! <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I am Sagar Patel! <a href="https://www.linkedin.com/in/spatel275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/5f5ef45e-5d38-413f-83e6-57419a4308d8/public_url"><img src="https://img.shields.io/badge/-Security+-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a><img src="https://img.shields.io/badge/-ITILv4-000000?&style=for-the-badge&logo=ITIL&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/841007c9-47d1-4297-9787-7914bc7a78c3/public_url"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
