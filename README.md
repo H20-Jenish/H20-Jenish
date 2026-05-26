@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am an IT professional with over 7 years of experience in technical support, systems administration, and security operations. I specialize in resolving complex infrastructure issues, securing systems, and improving workflows using automation. My focus is on strengthening operations, reducing risk, and delivering dependable technology solutions backed by security best practices.
+I am an IT professional with over 8 years of experience in technical support, systems administration, and security operations. I specialize in resolving complex infrastructure issues, securing systems, and improving workflows using automation. My focus is on strengthening operations, reducing risk, and delivering dependable technology solutions backed by security best practices.
 
 ## Professional Summary
 
