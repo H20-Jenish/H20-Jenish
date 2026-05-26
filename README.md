@@ -47,7 +47,7 @@ Performed traffic analysis and vulnerability investigations using packet capture
 | [Resume_modifier](https://github.com/H20-Jenish/Resume_modifier) | AI resume optimizer with FastAPI, PostgreSQL, PDF export, n8n workflows, and Ollama/LM Studio support. |
 | [Mini-lab](https://github.com/H20-Jenish/Mini-lab) | Personal lab repository for security experimentation and demonstrations. |
 | [Pentest_Lab](https://github.com/H20-Jenish/Pentest_Lab) | Penetration testing lab repository covering tools, exercises, and lab setup documentation. |
-| [H20-Jenish](https://github.com/H20-Jenish/H20-Jenish) | Portfolio repository showcasing my profile, projects, certifications, and GitHub activity. |
+
 
 ## Lab & Security Projects
 
