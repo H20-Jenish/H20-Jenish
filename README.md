@@ -26,6 +26,21 @@ With a solid background in technical support and system administration, driven b
 | System Hardening |Disabled unused services and enforced secure configurations on Windows and Linux systems. Configured IIS for HTTPS with valid certificates and mitigated OWASP vulnerabilities, including input validation and secure headers.|
 | File Storage Security|Configured secure shared storage on TrueNAS with encrypted volumes and restricted access using ACLs. Implemented snapshot backups to protect against ransomware.|
 
+## GitHub Projects
+
+Below are the public repositories I have created and maintained, with the core focus of each project:
+
+| Repository | Summary |
+|------------|---------|
+| [Dhanapalana](https://github.com/H20-Jenish/Dhanapalana) | Full-stack personal finance web app with AI-powered income, expense, savings, investment, transfer and lending tracking. Includes secure JWT/MFA auth and real-time analytics. |
+| [PDF-translator](https://github.com/H20-Jenish/PDF-translator) | OCR + AI translation solution preserving page structure. Built with React, FastAPI, and Ollama/LM Studio integrations. |
+| [astrology_webapp](https://github.com/H20-Jenish/astrology_webapp) | Astrology web application with Node.js backend and interactive kundli, KP, and vastu frontend tools. |
+| [sole-proprietor-app](https://github.com/H20-Jenish/sole-proprietor-app) | Dockerized full-stack app for sole proprietors to manage clients, timesheets, expenses, invoices, mileage, and backups. |
+| [Resume_modifier](https://github.com/H20-Jenish/Resume_modifier) | AI resume optimizer with FastAPI, PostgreSQL, PDF export, n8n workflows, and Ollama/LM Studio support. |
+| [Mini-lab](https://github.com/H20-Jenish/Mini-lab) | Personal lab repository for security experimentation and demonstrations. |
+| [Pentest_Lab](https://github.com/H20-Jenish/Pentest_Lab) | Penetration testing lab repository covering tools, exercises, and lab setup documentation. |
+| [H20-Jenish](https://github.com/H20-Jenish/H20-Jenish) | Portfolio repository showcasing my profile, projects, certifications, and GitHub activity. |
+
 ## Tools
 
 ### Firewall
